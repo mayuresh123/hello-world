@@ -20,7 +20,7 @@ build.bat C:\Rubrik-FFD\src C:\output [Configuration] "C:\Windows Kits\10" 10.0.
 
 [Configuration] : Debug or Release
 ```
-#### Requirements
+**Requirements: -**
 * VC++ 2015 build tools
 * SDK 10
 * WDK 10
