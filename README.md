@@ -23,10 +23,10 @@ build.bat "C:\Rubrik-FFD\src" "C:\output" [Configuration] "C:\Windows Kits\10" "
 
 **Output Directory Structure: -**
 ───build
-	└───x64
-		├───kernelmode
-		│   └───Win10 Release
-		│       ├───FileSystemCBT
+    └───x64
+         ├───kernelmode
+	 │    └───Win10 Release
+	 │       ├───FileSystemCBT
 		│       └───FileSystemCBT Package
 		└───usermode
 			└───Release
