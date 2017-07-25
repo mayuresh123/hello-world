@@ -4,7 +4,7 @@ This tool will be used to upgrade the older solution with the Visual Studio 2015
 ### Batch Script (build.bat)
 This script will compile the projects with the Target OS version as "Windows 10"
 
-Script Input Details: -
+**Script Input Details: -**
 ```
   1. Solution directory path
   2. Output directory path
@@ -14,9 +14,9 @@ Script Input Details: -
   6. Verbose [Optional]
 ```
 
-Example:
+**Example: -**
 ```
 build.bat C:\Rubrik-FFD\src C:\output [Configuration] "C:\Windows Kits\10" 10.0.15063.0 -V
 
-[Configuration] : Debug or Release
+*[Configuration] : Debug or Release*
 ```
