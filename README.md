@@ -18,5 +18,5 @@ This script will compile the projects with the Target OS version as "Windows 10"
 ```
 build.bat C:\Rubrik-FFD\src C:\output [Configuration] "C:\Windows Kits\10" 10.0.15063.0 -V
 
-*[Configuration] : Debug or Release*
+[Configuration] : Debug or Release
 ```
