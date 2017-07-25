@@ -21,16 +21,6 @@ build.bat "C:\Rubrik-FFD\src" "C:\output" [Configuration] "C:\Windows Kits\10" "
 [Configuration] : Debug or Release
 ```
 
-**Output Directory Structure: -**
-───build
-    └───x64
-         ├───kernelmode
-	 │    └───Win10 Release
-	 │       ├───FileSystemCBT
-		│       └───FileSystemCBT Package
-		└───usermode
-			└───Release
-
 **Requirements: -**
 * VC++ 2015 build tools
 * SDK 10
