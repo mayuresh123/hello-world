@@ -4,7 +4,7 @@ This tool will be used to upgrade the older solution with the Visual Studio 2015
 ### Batch Script (build.bat)
 This script will compile the projects with the Target OS version as "Windows 10"
 
-**Script Input Details: -**
+**Script Input Arguments: -**
 ```
   1. Solution directory path
   2. Output directory path
@@ -20,3 +20,7 @@ build.bat C:\Rubrik-FFD\src C:\output [Configuration] "C:\Windows Kits\10" 10.0.
 
 [Configuration] : Debug or Release
 ```
+#### Requirements
+* VC++ 2015 build tools
+* SDK 10
+* WDK 10
